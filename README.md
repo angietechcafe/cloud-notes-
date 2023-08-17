@@ -1,5 +1,6 @@
 # cloud-notes 
 
+- ☁️ [My Cloud Tip](https://github.com/angietechcafe/cloud-notes-/blob/main/My%20tip.md)
 - ☁️ [Cloud Comparison Tool](https://github.com/angietechcafe/cloud-notes-/blob/main/Cloud%20Comparison%20Tool.md)
 - ☁️ [MS Azure Cloud Events](https://azure.microsoft.com/en-us/resources/events)
 - ☁️ [AWS Cloud Events](https://aws.amazon.com/events/)
