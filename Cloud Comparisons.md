@@ -2,4 +2,4 @@
 
 Folks can use this helpful and awesome tool to compare cloud services from GCP, AWS, and Azure.
 
-<a href="https://cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison" target="_blank" rel="noreferrer"><img src="https://github.com/angietechcafe/img/blob/main/GCP.png?raw=true" alt="Google Cloud" width="100" height="100"/> </a>
+<a href="https://cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison" target="_blank" rel="noreferrer"><img src="https://github.com/angietechcafe/img/blob/main/GCP.png?raw=true" alt="Google Cloud" width="120" height="120"/> </a>
