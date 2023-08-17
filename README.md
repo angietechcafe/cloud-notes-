@@ -5,3 +5,4 @@
 - ☁️ [AWS Cloud Events](https://aws.amazon.com/events/)
 - ☁️ [Google Cloud Events](https://cloud.google.com/events?hl=en)
 - ☁️ [Azure Documentation](https://learn.microsoft.com/en-us/azure/?product=popular)
+- ☁️ [AWS Documentation](https://docs.aws.amazon.com/)
