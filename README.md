@@ -10,7 +10,7 @@
 - ☁️ [GCP Learning Path](https://www.cloudskillsboost.google/journeys/8)
 
 # Cloud Events
-- ☁️ [MS Azure Cloud Events](https://azure.microsoft.com/en-us/resources/events)
+- ☁️ [Azure Cloud Events](https://azure.microsoft.com/en-us/resources/events)
 - ☁️ [AWS Cloud Events](https://aws.amazon.com/events/)
 - ☁️ [Google Cloud Events](https://cloud.google.com/events?hl=en)
 
