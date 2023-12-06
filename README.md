@@ -9,6 +9,9 @@
 - ☁️ [Azure Learning Paths](https://learn.microsoft.com/en-us/training/azure/)
 - ☁️ [GCP Learning Path](https://www.cloudskillsboost.google/journeys/8)
 
+# Cloud Cyber Challenges (CTFs)
+- ☁️ [CloudFoxable](https://cloudfoxable.bishopfox.com/challenges)
+
 # Cloud Events
 - ☁️ [Azure Cloud Events](https://azure.microsoft.com/en-us/resources/events)
 - ☁️ [AWS Cloud Events](https://aws.amazon.com/events/)
