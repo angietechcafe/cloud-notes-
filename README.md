@@ -10,6 +10,7 @@
 - ☁️ [GCP Learning Path](https://www.cloudskillsboost.google/journeys/8)
 
 # Cloud Cyber Challenges (CTFs)
+- ☁️ [R00TZ CTF by AWS](https://r00tz-ctf.awssecworkshops.com/)
 - ☁️ [CloudFoxable](https://cloudfoxable.bishopfox.com/challenges)
 - ☁️ [The Big IAM Challenge](https://bigiamchallenge.com/challenge/1)
 - ☁️ [Wiz EKS Challenge](https://eksclustergames.com/challenge/1)
