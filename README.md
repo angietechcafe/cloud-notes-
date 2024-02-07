@@ -15,6 +15,7 @@
 - ☁️ [The Big IAM Challenge](https://bigiamchallenge.com/challenge/1)
 - ☁️ [Wiz EKS Challenge](https://eksclustergames.com/challenge/1)
 - ☁️ [AzureGoat](https://github.com/ine-labs/AzureGoat)
+- ☁️ [GCPGoat](https://github.com/ine-labs/GCPGoat)
 
 # Cloud Events
 - ☁️ [Azure Cloud Events](https://azure.microsoft.com/en-us/resources/events)
