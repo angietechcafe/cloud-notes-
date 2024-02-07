@@ -14,6 +14,7 @@
 - ☁️ [CloudFoxable](https://cloudfoxable.bishopfox.com/challenges)
 - ☁️ [The Big IAM Challenge](https://bigiamchallenge.com/challenge/1)
 - ☁️ [Wiz EKS Challenge](https://eksclustergames.com/challenge/1)
+- ☁️ [AzureGoat](https://github.com/ine-labs/AzureGoat)
 
 # Cloud Events
 - ☁️ [Azure Cloud Events](https://azure.microsoft.com/en-us/resources/events)
