@@ -14,6 +14,7 @@
 - ☁️ [CloudFoxable](https://cloudfoxable.bishopfox.com/challenges)
 - ☁️ [The Big IAM Challenge](https://bigiamchallenge.com/challenge/1)
 - ☁️ [Wiz EKS Challenge](https://eksclustergames.com/challenge/1)
+- ☁️ [AWSGoat](https://github.com/ine-labs/AWSGoat)
 - ☁️ [AzureGoat](https://github.com/ine-labs/AzureGoat)
 - ☁️ [GCPGoat](https://github.com/ine-labs/GCPGoat)
 
