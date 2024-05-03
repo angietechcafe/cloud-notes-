@@ -7,6 +7,7 @@
 # Cloud Learning Paths / Courses
 - ☁️ [AWS Educate](https://aws.amazon.com/education/awseducate/)
 - ☁️ [Azure Learning Paths](https://learn.microsoft.com/en-us/training/azure/)
+- ☁️ [AZ-500 Manage Identity and Access Learning Path](https://learn.microsoft.com/en-us/training/paths/manage-identity-access-new/)
 - ☁️ [GCP Learning Path](https://www.cloudskillsboost.google/journeys/8)
 
 # Cloud Cyber Challenges (CTFs)
