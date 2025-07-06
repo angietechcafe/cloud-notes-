@@ -1,6 +1,7 @@
 # cloud-notes 
 
 # Cloud Tips
+- ☁️ [Angie's Medium DevOps and Cloud Security Medium Blogs] (https://angietechcafe.medium.com/list/devops-cloud-security-a13de702a1ab)
 - ☁️ [My Cloud Tip](https://github.com/angietechcafe/cloud-notes-/blob/main/My%20tip.md)
 - ☁️ [Cloud Comparison Tool](https://github.com/angietechcafe/cloud-notes-/blob/main/Cloud%20Comparison%20Tool.md)
 
